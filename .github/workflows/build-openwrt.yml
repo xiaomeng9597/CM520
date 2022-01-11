@@ -23,7 +23,7 @@ on:
 
 env:
  # REPO_URL: https://github.com/coolsnowwolf/lede
-  REPO_URL: https://github.com/xiaomeng9597/lede
+  REPO_URL: https://github.com/xiaomeng9597/lede-v5.4.125
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
